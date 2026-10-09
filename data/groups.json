@@ -1,5 +1,24 @@
 [
   {
+    "id": "high-yield-treasury-wealth-hub-discord-20261009-1",
+    "title": "WallStreetBets Official Discord",
+    "platform": "Discord",
+    "category": "Wsb",
+    "memberCount": "250,000+ members",
+    "description": "High-frequency discussion on trending tickers, option flow anomalies, and earnings volatility.",
+    "joinUrl": "https://discord.gg/wallstreetbets",
+    "tags": [
+      "wsb",
+      "trending-tickers",
+      "option-flow",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-09"
+  },
+  {
     "id": "high-yield-treasury-wealth-hub-discord-20261008-1",
     "title": "Options Strategies & Zero-DTE Guild",
     "platform": "Discord",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-08"
   },
   {
