@@ -1,5 +1,24 @@
 [
   {
+    "id": "high-yield-cash-treasury-bills-hub-reddit-1",
+    "title": "r/investing Long Term Wealth",
+    "platform": "Reddit",
+    "category": "Investing",
+    "memberCount": "2,600,000+ members",
+    "description": "Discussion on macroeconomics, fundamental equity valuation, indexing strategies, and long-term portfolio allocation.",
+    "joinUrl": "https://www.reddit.com/r/investing/",
+    "tags": [
+      "investing",
+      "stocks",
+      "wealth",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-18"
+  },
+  {
     "id": "high-yield-treasury-wealth-hub-forum-20261031-1",
     "title": "Hacker News Community",
     "platform": "Forum",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
   },
   {
@@ -779,24 +798,6 @@
     "lastUpdated": "2026-09-13"
   },
   {
-    "id": "high-yield-cash-treasury-bills-hub-reddit-1",
-    "title": "r/investing Long Term Wealth",
-    "platform": "Reddit",
-    "category": "Investing",
-    "memberCount": "2,600,000+ members",
-    "description": "Discussion on macroeconomics, fundamental equity valuation, indexing strategies, and long-term portfolio allocation.",
-    "joinUrl": "https://www.reddit.com/r/investing/",
-    "tags": [
-      "investing",
-      "stocks",
-      "wealth",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
-  },
-  {
     "id": "high-yield-cash-treasury-bills-hub-reddit-2",
     "title": "r/stocks Market News",
     "platform": "Reddit",
@@ -1169,24 +1170,6 @@
       "deal-pitch",
       "voice-hangouts",
       "networking"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
-  },
-  {
-    "id": "high-yield-cash-treasury-bills-hub-discord-23",
-    "title": "Global Investing & Real Estate Guild",
-    "platform": "Discord",
-    "category": "Investing",
-    "memberCount": "150,000+ members",
-    "description": "Multi-asset investment discussions with dedicated real estate channels, market updates, and portfolio tracking.",
-    "joinUrl": "https://www.reddit.com/r/investing/",
-    "tags": [
-      "investing",
-      "real-estate",
-      "discord",
-      "portfolios"
     ],
     "verified": true,
     "featured": false,
